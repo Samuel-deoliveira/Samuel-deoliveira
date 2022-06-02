@@ -1,4 +1,4 @@
-😃 Hi, my name is Raphaël Veauville  
+😃 Hi, my name is Samuel De oliveira
 👀 I like technology, sciences and programming 
 🗨️ If you want to chat with me you can do it [Scraven#3065](https://discord.com/users/384015647585075210) or by mail [samuel.deoliveir1@gmail.com](mailto:samuel.deoliveir1@gmail.com)
 🎈 Ask me about anything, I am happy to help
