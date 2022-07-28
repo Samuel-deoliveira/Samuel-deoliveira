@@ -18,9 +18,9 @@
 
 ## 💻 Current project
 
+- [Portfolio](https://github.com/Samuel-deoliveira/portfolio)
 - [Thyrium](https://github.com/Thyrium)
 - [Novelium](https://github.com/NoveliumMC)
-- A Discord Bot Public
 
 ## 📈 Stats
 
