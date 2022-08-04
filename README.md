@@ -25,6 +25,7 @@
 ## 📈 Stats
 
 [![wakatime](https://wakatime.com/badge/user/a73805a9-85c7-4e75-93ec-d7f870f6c779.svg)](https://wakatime.com/@a73805a9-85c7-4e75-93ec-d7f870f6c779)
+
 ![Smaug GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-deoliveira&show_icons=true&theme=radical)
 
 ## 🔗 Contact
