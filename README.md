@@ -20,7 +20,7 @@
 
 ## 💻 Current project
 
-- [Dreamin](https://github.com/Spik-Loomi))
+- [Dreamin](https://github.com/Spik-Loomi)
 
 ## 📈 Stats
 
