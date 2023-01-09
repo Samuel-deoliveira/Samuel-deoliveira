@@ -20,8 +20,7 @@
 
 ## 💻 Current project
 
-- [Portfolio](https://github.com/Samuel-deoliveira/portfolio)
-- [Thyrium](https://github.com/Thyrium)
+- [Dreamin](https://github.com/Spik-Loomi))
 
 ## 📈 Stats
 
