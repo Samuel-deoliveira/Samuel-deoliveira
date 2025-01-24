@@ -41,3 +41,9 @@
 ## 🔗 Contact
 
 **You can contact me on discord ([Scraven](https://discord.com/users/384015647585075210)) or by email ([samuel.deoliveir1@gmail.com](mailto:samuel.deoliveir1@gmail.com)).**
+
+<p align="center">
+  <a href="snake">
+    <img src="https://raw.githubusercontent.com/Samuel-deoliveira/Samuel-deoliveira/output/github-contribution-grid-snake-dark.svg" />
+  </a>
+</p>
